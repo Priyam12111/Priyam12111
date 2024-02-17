@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **priyamtomar012@gmail.com**
 
-- ⚡ Fun fact **I can do what you are dreaming 😉**
+- ⚡ Fun fact **I can do what you are dreaming of😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
