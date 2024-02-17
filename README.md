@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://priyam12111.io)
+[![MasterHead](https://www.kdnuggets.com/wp-content/uploads/awan_7_tips_python_beginners_5.gif)](https://github.com/Priyam12111)
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
 <h3 align="center">Explore the Enthralling World of Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
