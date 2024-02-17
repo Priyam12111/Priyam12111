@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfWa3mgkjIgbireqvFGflRrWjCfSME9g06LEKVORCPIDkOgRVU_0dvkJc6Tg0TlLPJ4oc6CIyoU94zwyEY8XZsnhuc2KLxOKL-iI45-COpS8jsOHAlPHsknUMv5AoRWx7uKI3KK2BpHro2EcRvBI48pWNf68fJ7X-qKctaF74tMMR6JIlocVOGhMTRlg/s1920/Black%20Yellow%20Futuristic%20Welcome%20To%20Video%20YouTube%20Intro.gif)](https://github.com/Priyam12111)
+[![MasterHead](https://i.gifer.com/embedded/download/1TaP.gif)](https://github.com/Priyam12111)
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
 <h3 align="center">Explore the Enthralling World of Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
