@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Priyam12111/Priyam12111/assets/88043917/928e6a75-742b-4929-bc34-5f57c465687f)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
 <h3 align="center">Explore the Enthralling World of Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
