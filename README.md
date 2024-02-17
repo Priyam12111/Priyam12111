@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Priyam12111)
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
 <h3 align="center">Explore the Enthralling World of Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyam12111&label=Profile%20views&color=0e75b6&style=flat" alt="priyam12111" /> </p>
 
