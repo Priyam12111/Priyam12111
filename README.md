@@ -18,9 +18,7 @@
 - ⚡ Fun fact **I can do what you are dreaming of😉**
 - 
 <br> <!-- Add an empty line or line break -->
-<div style="text-align:center;">
-    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Priyam12111)
-</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Priyam12111)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
