@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/embedded/download/1TaP.gif)](https://github.com/Priyam12111)
+[![MasterHead](https://i.gifer.com/embedded/download/1TaP.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
 <h3 align="center">Explore the Enthralling World of Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
