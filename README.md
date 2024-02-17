@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Priyam12111)
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
 <h3 align="center">Explore the Enthralling World of Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f1a6f76-36c2-4489-9c80-5dbdaee61c81/dblfsi5-eda685ca-922a-4666-a316-99737daa746f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmMWE2Zjc2LTM2YzItNDQ4OS05YzgwLTVkYmRhZWU2MWM4MVwvZGJsZnNpNS1lZGE2ODVjYS05MjJhLTQ2NjYtYTMxNi05OTczN2RhYTc0NmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cgKz3IQ3Ftr_7aeDy1oD_FDBaD8tHZDZNqZD5CTQGF8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyam12111&label=Profile%20views&color=0e75b6&style=flat" alt="priyam12111" /> </p>
 
