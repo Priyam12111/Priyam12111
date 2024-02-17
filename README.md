@@ -16,7 +16,7 @@
 - 📫 How to reach me **priyamtomar012@gmail.com**
 
 - ⚡ Fun fact **I can do what you are dreaming of😉**
-
+<br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Priyam12111)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
