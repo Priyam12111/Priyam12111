@@ -1,8 +1,4 @@
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/Priyam12111">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*qciKgKuGSCg3rSekbvTRxQ.gif" alt="MasterHead" height="500">
-  </a>
-</div>
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*qciKgKuGSCg3rSekbvTRxQ.gif)](https://github.com/Priyam12111)
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
 <h3 align="center">Explore the Enthralling World of Machine Learning</h3>
 <img srtle="border-radius:30px" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
@@ -15,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Python,MERN**
+- 💬 Ask me about **Python, DSA, Mern Stack**
 
 - 📫 How to reach me **priyamtomar012@gmail.com**
 
