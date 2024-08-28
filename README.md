@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/Priyam12111">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*qciKgKuGSCg3rSekbvTRxQ.gif" alt="MasterHead" height="200">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*qciKgKuGSCg3rSekbvTRxQ.gif" alt="MasterHead" height="500">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
