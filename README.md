@@ -1,4 +1,8 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*qciKgKuGSCg3rSekbvTRxQ.gif)](https://github.com/Priyam12111)
+<div style="text-align: center;">
+  <a href="https://github.com/Priyam12111">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*qciKgKuGSCg3rSekbvTRxQ.gif" alt="MasterHead" height="200">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
 <h3 align="center">Explore the Enthralling World of Machine Learning</h3>
 <img srtle="border-radius:30px" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
