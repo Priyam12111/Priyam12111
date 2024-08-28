@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyam0043" target="blank"><img src="https://img.shields.io/twitter/follow/priyam0043?logo=twitter&style=for-the-badge" alt="priyam0043" /></a> </p>
 
-- 🔭 I’m currently working on [Streamlit](https://github.com/Priyam12111/Stock-Predictor)
+- 🔭 I’m currently working on [Google meet Artifact ](https://github.com/Priyam12111/Google-meet-Artifact)
 
 - 🌱 I’m currently learning **React Native**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **priyamtomar012@gmail.com**
 
-- ⚡ Fun fact **I can do what you are dreaming of😉**
+- ⚡ Status ** Turning caffeine into code **
 - 
 <br> <!-- Add an empty line or line break -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Priyam12111)
