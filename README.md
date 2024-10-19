@@ -1,7 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)](https://github.com/Priyam12111)
-
 <h1 align="center">Hi 👋, I'm Priyam Singh</h1>
-<h3 align="center">Exploring the Enthralling World of Machine Learning</h3>
+<h3 align="center">Exploring the Enthralling World of Programming</h3>
 
 <img style="border-radius:30px" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
